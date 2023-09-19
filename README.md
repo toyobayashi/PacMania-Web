@@ -19,12 +19,13 @@ Progress:
 
 - Game Type: Features (30 levels):
   
-    - [ ] Bonus slow
-    - [ ] Bonus kill all
-    - [ ] Bonus kill
-    - [ ] Bonus key
-    - [ ] Bonus double
-    - [ ] Gate
+    - [x] Gate
+    - [x] Bonus key
+    - [x] Bonus slow
+    - [x] Bonus double
+    - [x] Bonus kill all
+    - [x] Bonus kill
+    - [x] Bonus Keyboard
 
 ## Copyright
 
